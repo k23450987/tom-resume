@@ -12,7 +12,7 @@
 
 - 手机：18636140030
 - Email：xiaoti008@gmail.com
-- 微信：<img width="128" height="128" src="https://raw.githubusercontent.com/k23450987/tom-resume/master/images/wechat.png"/>
+- 微信：<br/><img width="150" height="150" src="https://raw.githubusercontent.com/k23450987/tom-resume/master/images/wechat.png"/>
 
 ---
 
