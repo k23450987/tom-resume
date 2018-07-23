@@ -63,8 +63,8 @@
 农田管家内部的数据统计平台，主要用于展示有关公司订单及财务数据的报表。后端使用 Spring Boot, MyBatis 框架进行开发，前端使用 Vue.js 进行开发，并使用了饿了么的 Element 组件库。数据库使用与生产环境数据库同步的从库，避免了对业务系统产生影响。
 
 **工作描述：**
-- 参与了数据统计平台报表的调研，对数据质量进行分析，以及后续的报表接口开发。
-- 负责数据在前端的展示。
+- 参与了数据统计平台报表的调研，对数据质量进行分析，以及后续的报表接口前后端开发。
+- 完成了项目从传统 Spring 项目到 Spring Boot 模块化项目的迁移工作。
 - 对项目有关的慢查询进行监控，并进行查询 SQL 的优化操作。
 
 ### [YWPMS 企业管理平台](https://www.ywpms.com/)
@@ -116,15 +116,15 @@
 - 模板引擎：JSP, Thymeleaf
 - 前端：Bootstrap, jQuery, HTML, CSS
 - 开发工具：IntelliJ IDEA, Eclipse
-- Linux 操作系统，并熟练使用常用的命令操作
+- Linux 操作系统，并熟练使用常用的命令操作。
 
 ### 以下是为我了解的技能
 
-- 前端开发：了解基于 Vue.js, Vue Router 的前端开发
-- 生产环境监控：了解使用 Zabbix 的配置及使用
-- 持续集成：了解 Jenkins 的部署以及项目配置
-- 微服务：了解 Spring Boot 项目在 docker 的部署及维护操作，以及使用 Spring Cloud 进行服务治理
-- 日志系统：了解 ElasticSearch, Logstash, Kibana 的使用
+- 前端开发：了解基于 Vue.js, Vue Router 的前端开发。
+- 生产环境监控：了解使用 Zabbix 的配置及使用。
+- 持续集成：了解 Jenkins 的部署以及项目配置。
+- 微服务：了解 Spring Boot 项目在 docker 的部署及维护操作，以及使用 Spring Cloud 进行服务治理。
+- 日志系统：了解 ElasticSearch, Logstash, Kibana 的使用。
 
 ---
 
