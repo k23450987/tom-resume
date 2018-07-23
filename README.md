@@ -10,7 +10,7 @@
 
 # 联系方式
 
-- 手机：18636140030
+- 手机：MTg2MzYxNDAwMzA=(Base64)
 - Email：xiaoti008@gmail.com
 - 微信：<br/><br/><img width="150" height="150" src="https://raw.githubusercontent.com/k23450987/tom-resume/master/images/wechat.png"/>
 
