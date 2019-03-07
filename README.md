@@ -80,9 +80,11 @@
 
 # 项目和作品
 
-### [农田管家农宝 SaaS 服务平台（2018-09 ~ 至今）](http://www.farmfriend.cn/)
+### [农田管家农宝 SaaS 服务平台（2018-09 ~ 至今）](http://hnyf.farmfriend.com.cn/saasfront/HeNanYuFengManagementSystem/#/login)
 
 农田管家农宝 SaaS 服务平台主要为了第三方农企接入农田管家的公司的飞防业务，将我们的飞防服务接口做服务化。并且还对这些企业用户提供农产品商城服务、金融服务。
+
+[项目地址：](http://hnyf.farmfriend.com.cn/saasfront/HeNanYuFengManagementSystem/#/login)http://hnyf.farmfriend.com.cn/saasfront/HeNanYuFengManagementSystem/#/login
 
 **技术描述：**
 
@@ -102,9 +104,11 @@
 - 基于微服务的 SaaS 服务的落地，带来了高可用性的系统，为公司带来了企业客户，增加了营收。
 
 
-### [农田管家数据统计平台（2018-03 ~ 至今）](http://www.farmfriend.cn/)
+### [农田管家数据统计平台（2018-03 ~ 至今）](http://tongji.farmfriend.com.cn/statistics/index.html#/login)
 
 农田管家内部的数据统计平台，主要用于对公司业务数据进行统计，以报表或图表的形式在前端做展示。包括飞手活跃度数据、gmv、订单及订单亩次的统计等等。
+
+[项目地址：](http://tongji.farmfriend.com.cn/statistics/index.html#/login)http://tongji.farmfriend.com.cn/statistics/index.html#/login
 
 **技术描述：**
 
@@ -125,9 +129,11 @@
 - 通过对慢查询 SQL 的优化，提高了系统稳定性和接口响应速度。
 - 通过监控系统对可能发生的线上事故报警，使开发人员及时跟进处理，确保业务正常进行。
 
-### [农田管家飞手端&业务宝&管理后台（2018-03 ~ 至今）](http://www.farmfriend.cn/)
+### [农田管家飞手端&业务宝&管理后台（2018-03 ~ 至今）](http://guanli.farmfriend.com.cn/front/management)
 
 农田管家的核心产品。业务宝主要面向农户，农户在上面进行植保飞防订单的发起。飞手端面向进行飞防实施的飞手，在上面进行订单的接单、作业提交等操作。管理后台主要面向公司的运营人员，提供了平台用户管理、订单管理、运营系统、财务管理等模块。
+
+[项目地址：](http://guanli.farmfriend.com.cn/front/management)http://guanli.farmfriend.com.cn/front/management
 
 **技术描述：**
 
@@ -149,6 +155,8 @@
 ### [YWPMS 企业管理平台（2016-11 ~ 2018-02）](https://www.ywpms.com/)
 
 太原正大金洲的主要产品。包括工作流流程设计器、自由库、员工绩效计算等功能。
+
+[项目地址：](https://www.ywpms.com/)https://www.ywpms.com/
 
 **技术描述：**
 
